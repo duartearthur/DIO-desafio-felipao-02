@@ -1,4 +1,4 @@
-﻿# DIO-desafio-felipao-02 (2)
+﻿# DIO-desafio-felipao-02
 
  Esse foi meu segundo desafio de código concluido, o desafio foi proposto pelo Felipão da DIO. Segue abaixo a descrição do que o meu código deve conseguir executar:
 
